@@ -32,6 +32,7 @@ class wp_html_editor_syntax {
 			return;
 		?>
 		<script src="<?php echo HESH_LIBS; ?>hesh.min.js"></script>
+		<script src="<?php echo HESH_LIBS; ?>ardoq-fix.js"></script>
 		<?php
 	}
 	private function is_editor(){
