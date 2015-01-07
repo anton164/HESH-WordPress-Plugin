@@ -1,11 +1,10 @@
 <?php
 /**
  * Plugin Name: HTML Editor Syntax Highlighter
- * Plugin URI: http://wordpress.org/extend/plugins/html-editor-syntax-highlighter/
  * Description: Syntax Highlighting in WordPress HTML Editor
- * Author: Petr Mukhortov
+ * Author: Petr Mukhortov 
  * Author URI: http://mukhortov.com/
- * Version: 1.4.8
+ * Version: 3.0.0
  * Requires at least: 3.3
  * Tested up to: 3.8.2
  * Stable tag: 1.4.8
